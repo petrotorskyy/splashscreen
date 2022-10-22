@@ -4,9 +4,9 @@ Flutter project - Login Form
 
 ## Dependencies
 
-  <p>cupertino_icons</p>
-  <p>animated_splash_screen</p>
-  <p>lottie</p>
-  <p>page_transition</p>
-  <p>shared_preferences</p>
-  <p>flutter_secure_storage</p>
+  <p><strong>cupertino_icons</strong></p>
+  <p><strong>animated_splash_screen</strong></p>
+  <p><strong>lottie</strong></p>
+  <p><strong>page_transition</strong></p>
+  
+  <p><strong>flutter_secure_storage</strong></p>
